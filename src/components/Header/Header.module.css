@@ -1,0 +1,28 @@
+.header{
+width: 100%;
+background-color: rgb(109, 90, 255);
+padding-top: 24px;
+padding-bottom: 24px;
+margin-bottom: 30px;
+}
+
+.home{
+margin-right: 20px;
+margin-left: 50px;
+text-decoration: none;
+font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+text-transform: capitalize;
+color:rgb(33, 33, 33);
+}
+.movies{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color:rgb(33, 33, 33);
+}
